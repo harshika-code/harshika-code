@@ -1,9 +1,6 @@
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&height=100&lines=Hey%2C+I'm+Harshika+Sukoju+👋;Student-Founder+%7C+CTO+%7C+AI+Enthusiast;Building+Production-Grade+Media+Infrastructure;Practicing+the+1%25+better+every+day+mindset+📈" alt="Typing Effect Banner" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&height=80&lines=Hey%2C+I'm+Harshika+Sukoju+👋;Student-Founder+%7C+CTO+%7C+AI+Enthusiast;Building+Production-Grade+Media+Infrastructure;Practicing+the+1%25+better+every+day+mindset+📈" alt="Typing Effect Banner" />
 </p>
-
 ## 🚀 About Me
 
 I work at the intersection of **media infrastructure** and **machine learning**, building low-latency distribution frameworks and production-grade AI systems while simultaneously managing dual intensive technical degrees.
