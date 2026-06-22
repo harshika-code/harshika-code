@@ -1,60 +1,76 @@
-# Hi there, I'm Harshika Sukoju 👋
-**Student-Founder | CTO | AI Enthusiast**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/harshika-code/harshika-code/main/YOUR_BANNER_NAME.png" alt="Harshika's Header Banner" width="100%" />
+</p>
 
-Bridging the gap between core computer science theory and production-grade product architecture. I specialize in low-latency MediaTech workflows, asynchronous background processing engines, and data-driven systems while managing two intensive technical degree tracks.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harshika-code&label=Profile+Views&color=00bfff&style=flat-square" alt="Profile Views" />
+</p>
+
+## 🚀 About Me
+
+I work at the intersection of **media infrastructure** and **machine learning**, building low-latency distribution frameworks and production-grade AI systems while simultaneously managing dual intensive technical degrees.
 
 ---
 
-### 📊 My GitHub Insights
-<!-- This is where your live-updating visual graphics go! -->
+## 🛠️ Technical Stack
+
+### Core
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+### MediaTech / Web Backend
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=MySQL&logoColor=white)
+
+<br/>
+
+## 🚀 Featured Production Systems
+
+### 🎬 eTheater — Digital B2B2C Media Distribution Infrastructure
+*Chief Technology Officer (CTO) & Lead Architect*
+* **System Design:** Engineered a secure B2B2C transactional streaming platform utilizing a "Virtual Tickets" model allowing filmmakers to distribute content directly to consumers.
+* **Media Optimization:** Developed custom HTML5 players with dynamic `data-src` lazy-loading, eliminating initial page-load overhead and browser memory leaks upon stream closure.
+* **Backend Automation:** Integrated non-blocking asynchronous backend processing tasks via **Django-Q** and **Resend API** to trigger role-segmented HTML user onboarding pipelines.
+
+### 🤖 AI-Powered Mock Interview Platform (CODESTORM '26 National Hackathon)
+*Lead AI Developer | 1st Place Winner - Generative AI Track*
+* **Pressure Simulation:** Architected an interactive interview environment that simulates realistic, high-pressure technical interview conditions.
+* **Dynamic Logic:** Engineered an AI-driven interruption engine that dynamically challenges user responses in real-time to test composure and adaptability under stress.
+
+---
+
+## 📊 Activity Insights
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshika-code&show_icons=true&theme=radical&hide_border=true" alt="Harshika's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshika-code&layout=compact&theme=radical&hide_border=true" alt="Harshika's Top Languages" width="45%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshika-code&theme=react-dark&bg_color=0d1117&hide_border=true" alt="Harshika's Contribution Graph" width="100%" />
 </p>
 
 ---
 
-### 🧰 Technical Arsenal
+## 🎓 Education & Background
 
-| Context | Technologies & Frameworks |
-| :--- | :--- |
-| **Languages** | Python, C, C++, Java, JavaScript (ES6+) |
-| **Web & Back-End** | HTML5 Media API, CSS3, Django, Django-Q, Resend API, MongoDB, SQL |
-| **Data Science & AI** | Applied Machine Learning, NumPy, Pandas, Computational Probability |
-| **Developer Tools** | Git, GitHub, VS Code, Linux, Canva |
+* **B.Tech in Computer Science & Engineering** | *Autonomous Institution (Affiliated to JNTUH)* | 2024 – 2028
+* **Bachelor of Science (BS) in Data Science** | *Indian Institute of Technology (IIT), Madras* | 2024 – 2028
 
 ---
 
-### 🚀 Production Systems & Featured Projects
+## 🌐 Connect With Me
 
-#### 🎬 eTheater — Digital B2B2C Media Distribution Infrastructure
-*Chief Technology Officer (CTO) & Lead Architect*
-*   **System Design:** Engineered a secure B2B2C transactional streaming platform utilizing a "Virtual Tickets" model allowing filmmakers to distribute content directly to consumers.
-*   **Media Optimization:** Developed custom HTML5 players with dynamic `data-src` lazy-loading, eliminating initial page-load overhead and browser memory leaks upon stream closure.
-*   **UI Mechanics:** Built responsive slider event listeners to pause the video rendering engine during drag operations, achieving lag-free frame seeking and seamless user scrubbing.
-*   **Backend Automation:** Integrated non-blocking asynchronous backend processing tasks via **Django-Q** and **Resend API** to trigger role-segmented HTML user onboarding pipelines.
+<p align="center">
+  <a href="https://www.linkedin.com/in/harshika-sunkoju">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:harshikaofficial111@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-#### 🤖 AI-Powered Mock Interview Platform (CODESTORM '26 National Hackathon)
-*Lead AI Developer | 1st Place Winner - Generative AI Track*
-*   **Pressure Simulation:** Architected an interactive interview environment that simulates realistic, high-pressure technical interview conditions.
-*   **Dynamic Logic:** Engineered an AI-driven interruption engine that dynamically challenges user responses in real-time to test composure and adaptability under stress.
-*   **Persistence & Pivot:** Overcame complex real-time latency and state-management constraints during a grueling 36-hour sprint, reinforcing that true growth comes from pushing through technical bottlenecks.
-
----
-
-### 🎓 Education & Background
-
-*   **B.Tech in Computer Science & Engineering** 
-    *   *An Autonomous Institution (Affiliated to JNTUH)* | 2024 – 2028
-    *   *Focus:* Data Structures & Algorithms (DSA), OOP, Discrete Mathematics.
-*   **Bachelor of Science (BS) in Data Science and Applications** 
-    *   *Indian Institute of Technology (IIT), Madras* | 2024 – 2028 (7.5 CGPA)
-    *   *Focus:* Applied Machine Learning, Advanced Statistics, DBMS.
----
-
-### ⚡ Achievements & Stats
-*   🥇 **1st Place Winner** at CODESTORM 2026 National Hackathon (GenAI Track)
-*   🚀 Active advocate for **"Building in Public"** and driving tech entrepreneurship.
-*   📈 Continuous learner practicing the **1% better every day** mindset.
-
-📫 **Let's Connect:** [LinkedIn] www.linkedin.com/in/harshika-sunkoju
+<p align="center">
+  💡 <em>"Building production infrastructure. 1% better every day."</em>
+</p>
