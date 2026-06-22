@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&height=80&lines=Hey%2C+I'm+Harshika+Sukoju+👋;Student-Founder+%7C+CTO+%7C+AI+Enthusiast;Building+Production-Grade+Media+Infrastructure;Practicing+the+1%25+better+every+day+mindset+📈" alt="Typing Effect Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&height=80&lines=Hey%2C+I'm+Harshika+Sukoju+👋;Student-Founder+%7C+CTO+%7C+AI+Enthusiast; Building+Production-Grade+Media+Infrastructure ;Practicing+the+1%25+better+every+day+mindset+📈" alt="Typing Effect Banner" />
 </p>
 ## 🚀 About Me
 
