@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harshika-code/harshika-code/main/YOUR_BANNER_NAME.png" alt="Harshika's Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/view?type=waving&color=0:0d1117,100:8a2be2&height=220&section=header&text=Harshika%20Sukoju&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=AI%20Systems%20%E2%80%A2%20Media%20Infrastructure%20%E2%80%A2%20Data%20Science&descSize=18&descAlignY=65" alt="Harshika's Custom Banner" width="100%" />
 </p>
 
 <p align="center">
