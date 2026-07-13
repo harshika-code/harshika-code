@@ -74,7 +74,7 @@ I work at the intersection of **media infrastructure** and **machine learning**,
 
 ## 🎓 Education & Background
 
-* **B.Tech in Computer Science & Engineering** | *Autonomous Institution (Affiliated to JNTUH)* | 2024 – 2028
+* **B.Tech in Computer Science & Engineering** | 2024 – 2028
 * **Bachelor of Science (BS) in Data Science** | *Indian Institute of Technology (IIT), Madras* | 2024 – 2028
 
 ---
@@ -172,7 +172,7 @@ I work at the intersection of **media infrastructure** and **machine learning**,
 
 ## 🎓 Education & Background
 
-* **B.Tech in Computer Science & Engineering** | *Autonomous Institution (Affiliated to JNTUH)* | 2024 – 2028
+* **B.Tech in Computer Science & Engineering** | 2024 – 2028
 * **Bachelor of Science (BS) in Data Science** | *Indian Institute of Technology (IIT), Madras* | 2024 – 2028
 
 ---
